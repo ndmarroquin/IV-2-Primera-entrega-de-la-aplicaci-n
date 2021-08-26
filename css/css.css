@@ -1,0 +1,23 @@
+.section-uno{
+    max-width: 375px;
+    padding: 0 1rem ;
+}
+
+.section-tres {
+    display: flex;
+    flex-direction: column;
+}
+
+.maskg{
+    position: absolute;
+    width: 375px;
+    height: 385px;
+    left: 0px;
+    top: 428px;
+}
+.logo{
+    position: absolute;
+    left: 132.91px;
+    top: 161.13px;
+    
+}
